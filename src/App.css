@@ -1,0 +1,38 @@
+body {
+    
+    background-blend-mode:luminosity ;
+    background-color: rgba(69, 104, 30, 0.787);
+    text-align: center;
+    scrollbar-shadow-color: rgb(245, 245, 245) 4rem;
+    scroll-behavior: smooth;
+    -moz-window-shadow: rgb(0, 240, 0) 4rem;
+    box-shadow: 10rem;
+    -ms-scrollbar-shadow-color: black;
+    -ms-scrollbar-darkshadow-color: aqua;
+    transform-box: inherit;
+}
+.navbar {
+    height: 73px;
+    -webkit-text-fill-color: rgba(113, 241, 54, 0.712);
+    scrollbar-shadow-color: black;
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+.li {
+    display: block;
+   border: 6px black;
+    color: whitesmoke;
+    width: 20px;
+    text-align: center;
+    padding-right: 3rem;
+    height: 6px;
+}
